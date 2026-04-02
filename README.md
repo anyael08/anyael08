@@ -1,16 +1,25 @@
-### Hi there 👋
-I sell drugsaaaaaaaaaaaaaaaaaaaaaa
-<!--
-**anyael08/anyael08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hola, soy anyael 👋
 
-Here are some ideas to get you started:
+soy desarrollador de aplicaciones web y estudiante de ciberseguridad de república dominicana.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## tecnologías
+- php
+- mysql
+- html
+- css
+- javascript
+- github
+- ciberseguridad
+
+## actualmente
+- desarrollando una tienda de ropa en php y mysql
+- estudiando ciberseguridad
+- aprendiendo python
+
+## proyectos destacados
+- nyxveil-store
+- portfolio-website
+- vulnerability-assessment-lab
+
+## contacto
+- correo: almonteanyael08@gmail.com
