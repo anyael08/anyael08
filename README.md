@@ -15,8 +15,8 @@ Aplicación web para una tienda de ropa desarrollada con PHP y MySQL.
 - javascript
 
 ## Capturas
-![Admin Panel](screenshot/admin.png)
-![Home Login](screenshots/home.png)
+![screenshot](screenshot)
+
 
 ## Cómo ejecutar
 1. descargar el proyecto
