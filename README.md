@@ -1,25 +1,26 @@
-# hola, soy anyael 👋
+# NYXVEIL Store
 
-soy desarrollador de aplicaciones web y estudiante de ciberseguridad de república dominicana.
+Aplicación web para una tienda de ropa desarrollada con PHP y MySQL.
 
-## tecnologías
+## Características
+- registro e inicio de sesión
+- panel de administración
+- agregar, editar y eliminar productos
+- conexión con base de datos mysql
+## Tecnologías
 - php
 - mysql
 - html
 - css
 - javascript
-- github
-- ciberseguridad
 
-## actualmente
-- desarrollando una tienda de ropa en php y mysql
-- estudiando ciberseguridad
-- aprendiendo python
+## Capturas
+![Admin Panel](screenshot/admin.png)
+![Home Login](screenshots/home.png)
 
-## proyectos destacados
-- nyxveil-store
-- portfolio-website
-- vulnerability-assessment-lab
-
-## contacto
-- correo: almonteanyael08@gmail.com
+## Cómo ejecutar
+1. descargar el proyecto
+2. abrir xampp
+3. importar la base de datos sql
+4. colocar la carpeta en htdocs
+5. abrir localhost
